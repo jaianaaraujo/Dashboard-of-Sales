@@ -47,7 +47,12 @@ This project is an interactive dashboard built with **Power BI**, using sales, g
 - **Microsoft Excel**: For organizing and cleaning raw data  
 - **DAX (Data Analysis Expressions)**: For building custom KPIs and calculations
 
-## 🔍 Dashboard Features
+
+
+![Sales Dashboard Overview](./sales-dashboard.png)
+
+
+
 
 - Interactive filters by seller, product, month, and region  
 - KPIs comparing goals vs. actual performance  
