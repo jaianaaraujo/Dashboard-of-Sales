@@ -49,14 +49,7 @@ This project is an interactive dashboard built with **Power BI**, using sales, g
 
 
 
-![Sales Dashboard Overview](./sales-dashboard.png)
-
-
-
-
-- Interactive filters by seller, product, month, and region  
-- KPIs comparing goals vs. actual performance  
-- Trend analysis with line and bar charts  
-- Dynamic tables detailing sales by item and salesperson
+![Sales Dashboard Overview](![dash de vendas](https://github.com/user-attachments/assets/dd1a954f-9b90-45fe-bded-09e01e2c3770)
+)
 
 
