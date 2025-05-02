@@ -49,7 +49,7 @@ This project is an interactive dashboard built with **Power BI**, using sales, g
 
 
 
-![Sales Dashboard Overview](![dash de vendas](https://github.com/user-attachments/assets/dd1a954f-9b90-45fe-bded-09e01e2c3770)
+(![dash de vendas](https://github.com/user-attachments/assets/dd1a954f-9b90-45fe-bded-09e01e2c3770)
 )
 
 
